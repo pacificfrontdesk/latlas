@@ -1,0 +1,141 @@
+{
+  "version": 1,
+  "themes": [
+    {
+      "id": "nordic",
+      "symbol": "snowflake",
+      "title": {
+        "en": "Nordic countries",
+        "es": "Países nórdicos",
+        "de": "Nordische Länder",
+        "fr": "Pays nordiques",
+        "pt": "Países nórdicos",
+        "ja": "北欧"
+      },
+      "countries": [
+        "NO",
+        "SE",
+        "FI",
+        "DK",
+        "IS"
+      ]
+    },
+    {
+      "id": "southeast-asia",
+      "symbol": "sun.haze.fill",
+      "title": {
+        "en": "Southeast Asia",
+        "es": "Sudeste Asiático",
+        "de": "Südostasien",
+        "fr": "Asie du Sud-Est",
+        "pt": "Sudeste Asiático",
+        "ja": "東南アジア"
+      },
+      "countries": [
+        "TH",
+        "VN",
+        "KH",
+        "MY",
+        "ID",
+        "PH",
+        "SG"
+      ]
+    },
+    {
+      "id": "balkans",
+      "symbol": "building.columns.fill",
+      "title": {
+        "en": "The Balkans",
+        "es": "Los Balcanes",
+        "de": "Der Balkan",
+        "fr": "Les Balkans",
+        "pt": "Os Bálcãs",
+        "ja": "バルカン半島"
+      },
+      "countries": [
+        "RS",
+        "HR",
+        "BA",
+        "ME",
+        "MK",
+        "AL",
+        "SI",
+        "BG",
+        "RO",
+        "GR"
+      ]
+    },
+    {
+      "id": "africa",
+      "symbol": "globe.africa.fill",
+      "title": {
+        "en": "Africa",
+        "es": "África",
+        "de": "Afrika",
+        "fr": "Afrique",
+        "pt": "África",
+        "ja": "アフリカ"
+      },
+      "countries": [
+        "ZA",
+        "KE",
+        "NG",
+        "GH",
+        "SN",
+        "UG",
+        "BW",
+        "NA",
+        "RW",
+        "TN",
+        "LS",
+        "SZ"
+      ]
+    },
+    {
+      "id": "south-america",
+      "symbol": "globe.americas.fill",
+      "title": {
+        "en": "South America",
+        "es": "Sudamérica",
+        "de": "Südamerika",
+        "fr": "Amérique du Sud",
+        "pt": "América do Sul",
+        "ja": "南米"
+      },
+      "countries": [
+        "BR",
+        "AR",
+        "CL",
+        "CO",
+        "PE",
+        "UY",
+        "EC",
+        "BO",
+        "PY"
+      ]
+    },
+    {
+      "id": "central-eastern-europe",
+      "symbol": "tram.fill",
+      "title": {
+        "en": "Central and Eastern Europe",
+        "es": "Europa central y oriental",
+        "de": "Mittel- und Osteuropa",
+        "fr": "Europe centrale et orientale",
+        "pt": "Europa Central e Oriental",
+        "ja": "中東欧"
+      },
+      "countries": [
+        "EE",
+        "LV",
+        "LT",
+        "PL",
+        "CZ",
+        "SK",
+        "HU",
+        "UA"
+      ]
+    }
+  ],
+  "schedule": []
+}
